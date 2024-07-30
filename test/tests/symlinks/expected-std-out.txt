@@ -1,0 +1,1 @@
+Symlink for lim.it certificate was not generated under one minute, timing out.
